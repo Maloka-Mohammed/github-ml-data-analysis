@@ -1,0 +1,1201 @@
+name,owner,language,stars,forks,watchers,open_issues,created_date,updated_date,license
+tensorflow,tensorflow,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",197330,76098,197330,2930,2015-11-07 01:19:20+00:00,2026-08-22 21:49:21+00:00,Apache License 2.0
+transformers,huggingface,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",164344,34325,164344,2397,2018-10-29 13:56:00+00:00,2026-08-22 21:20:09+00:00,Apache License 2.0
+ML-For-Beginners,microsoft,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",89686,22038,89686,13,2021-03-03 01:34:05+00:00,2026-08-22 20:59:48+00:00,MIT License
+funNLP,fighting41love,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",82598,15272,82598,52,2018-08-21 11:20:39+00:00,2026-08-22 20:42:24+00:00,Unknown
+awesome-machine-learning,josephmisiti,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",74118,15619,74118,26,2014-07-15 19:11:19+00:00,2026-08-22 19:52:07+00:00,Other
+scikit-learn,scikit-learn,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",67011,27299,67011,2124,2010-08-17 09:43:38+00:00,2026-08-22 21:29:54+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
+gradio,gradio-app,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",43405,3579,43405,174,2018-12-19 08:24:04+00:00,2026-08-22 17:03:47+00:00,Apache License 2.0
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,ashishpatel26,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",36454,7454,36454,68,2021-01-02 12:08:37+00:00,2026-08-22 16:09:36+00:00,Unknown
+C-Plus-Plus,TheAlgorithms,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",34592,7850,34592,29,2016-07-16 10:19:45+00:00,2026-08-22 20:30:40+00:00,MIT License
+netron,lutzroeder,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",33387,3174,33387,18,2010-12-26 12:53:43+00:00,2026-08-22 18:17:56+00:00,MIT License
+ML-From-Scratch,eriklindernoren,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",32507,5431,32507,77,2017-02-05 12:11:23+00:00,2026-08-22 19:36:28+00:00,MIT License
+applied-ml,eugeneyan,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",30072,3991,30072,8,2020-07-04 18:57:47+00:00,2026-08-22 17:23:56+00:00,MIT License
+machine-learning-for-software-engineers,ZuzooVn,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",28867,6146,28867,32,2016-10-09 21:20:25+00:00,2026-08-22 13:13:25+00:00,Creative Commons Attribution Share Alike 4.0 International
+linkedin-skill-assessments-quizzes,Ebazhanov,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",28804,12906,28804,21,2019-07-13 19:52:56+00:00,2026-08-22 05:58:27+00:00,GNU Affero General Public License v3.0
+cs249r_book,harvard-edge,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",27979,3534,27979,26,2023-09-06 19:31:06+00:00,2026-08-22 19:57:16+00:00,Other
+shap,shap,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",25697,3744,25697,1010,2016-11-22 19:17:08+00:00,2026-08-22 20:42:50+00:00,MIT License
+homemade-machine-learning,trekhleb,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",24773,4193,24773,30,2018-11-01 04:34:19+00:00,2026-08-22 13:09:31+00:00,MIT License
+Paddle,PaddlePaddle,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",24061,6016,24061,1505,2016-08-15 06:59:08+00:00,2026-08-22 16:42:57+00:00,Apache License 2.0
+best-of-ml-python,lukasmasuch,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",23729,3146,23729,54,2020-11-29 19:41:36+00:00,2026-08-22 21:55:00+00:00,Creative Commons Attribution Share Alike 4.0 International
+C,TheAlgorithms,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",22334,4770,22334,18,2016-07-16 10:17:03+00:00,2026-08-22 18:41:17+00:00,GNU General Public License v3.0
+onnx,onnx,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",21348,4007,21348,283,2017-09-07 04:53:45+00:00,2026-08-22 18:45:24+00:00,Apache License 2.0
+rasa,RasaHQ,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",21302,4920,21302,153,2016-10-14 12:27:49+00:00,2026-08-22 17:26:47+00:00,Apache License 2.0
+video2x,k4yt3x,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",21020,1823,21020,130,2018-02-24 16:34:41+00:00,2026-08-22 17:47:12+00:00,GNU Affero General Public License v3.0
+awesome-production-machine-learning,EthicalML,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",20861,2590,20861,31,2018-08-15 14:28:41+00:00,2026-08-22 20:14:23+00:00,MIT License
+machine-learning-for-trading,stefan-jansen,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",20578,5551,20578,7,2018-05-09 12:33:08+00:00,2026-08-22 19:44:39+00:00,MIT License
+stanford-cs-229-machine-learning,afshinea,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",20142,4251,20142,20,2018-08-04 23:01:00+00:00,2026-08-22 22:00:33+00:00,MIT License
+ml-agents,Unity-Technologies,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",19645,4484,19645,20,2017-09-08 21:09:04+00:00,2026-08-22 01:06:55+00:00,Other
+LightGBM,lightgbm-org,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",18707,4055,18707,511,2016-08-05 05:45:50+00:00,2026-08-21 17:04:33+00:00,MIT License
+ml-engineering,stas00,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",18687,1204,18687,3,2020-09-02 19:23:01+00:00,2026-08-22 21:47:20+00:00,Creative Commons Attribution Share Alike 4.0 International
+Machine-Learning-Tutorials,ujjwalkarn,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",18134,3968,18134,47,2015-09-12 14:51:38+00:00,2026-08-22 21:07:46+00:00,Creative Commons Zero v1.0 Universal
+ML-NLP,NLP-LOVE,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",17796,4626,17796,36,2019-07-05 12:49:53+00:00,2026-08-21 08:46:43+00:00,Unknown
+brpc,apache,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",17592,4136,17592,465,2017-09-04 09:28:47+00:00,2026-08-22 15:55:47+00:00,Apache License 2.0
+ML-YouTube-Courses,dair-ai,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",17382,2126,17382,21,2021-06-25 09:39:16+00:00,2026-08-22 10:13:10+00:00,Creative Commons Zero v1.0 Universal
+numpy-ml,ddbourgin,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",16333,3743,16333,47,2019-04-06 22:29:49+00:00,2026-08-21 02:10:24+00:00,GNU General Public License v3.0
+transformers.js,huggingface,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",16264,1182,16264,279,2023-02-13 13:51:45+00:00,2026-08-22 21:57:25+00:00,Apache License 2.0
+mml-book.github.io,mml-book,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",15911,2849,15911,197,2017-12-08 10:52:21+00:00,2026-08-22 05:47:15+00:00,Unknown
+kubeflow,kubeflow,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",15826,2692,15826,0,2017-11-30 18:44:19+00:00,2026-08-22 14:04:13+00:00,Apache License 2.0
+cheatsheets-ai,kailashahirwar,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",15427,3372,15427,12,2017-05-24 12:06:56+00:00,2026-08-21 09:19:05+00:00,MIT License
+ggml,ggml-org,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",15217,1787,15217,352,2022-09-18 17:07:19+00:00,2026-08-22 15:48:52+00:00,MIT License
+Qix,ty4z2008,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",15190,4575,15190,0,2014-04-20 11:03:15+00:00,2026-08-22 06:08:34+00:00,Other
+imgaug,aleju,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",14739,2450,14739,311,2015-07-10 20:31:33+00:00,2026-08-22 05:53:02+00:00,MIT License
+bullet3,bulletphysics,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",14685,3088,14685,423,2011-04-12 18:45:08+00:00,2026-08-22 15:44:36+00:00,Other
+ChatterBot,gunthercox,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",14509,4420,14509,74,2014-09-28 14:49:00+00:00,2026-08-20 11:19:50+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
+dlib,davisking,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",14433,3442,14433,38,2014-01-29 00:45:33+00:00,2026-08-22 04:50:50+00:00,Boost Software License 1.0
+nni,microsoft,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",14363,1851,14363,415,2018-06-01 05:51:44+00:00,2026-08-20 11:20:41+00:00,MIT License
+mit-deep-learning-book-pdf,janishar,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",14206,2910,14206,12,2017-04-07 10:46:50+00:00,2026-08-22 18:12:27+00:00,Unknown
+ivy,unifyai,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",14171,5460,14171,985,2021-01-19 08:37:25+00:00,2026-08-22 21:46:23+00:00,Other
+machine-learning-zoomcamp,DataTalksClub,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",13989,3102,13989,3,2020-04-17 04:29:23+00:00,2026-08-22 20:44:23+00:00,Unknown
+handson-ml3,ageron,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",13972,5260,13972,107,2022-02-19 09:43:22+00:00,2026-08-22 16:05:35+00:00,Apache License 2.0
+tvm,apache,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",13676,3959,13676,236,2016-10-12 22:20:28+00:00,2026-08-22 18:56:28+00:00,Apache License 2.0
+Ai-Learn,tangyudi,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",13275,2673,13275,20,2020-01-28 01:55:06+00:00,2026-08-21 12:33:55+00:00,Unknown
+deep-learning-drizzle,kmario23,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",12931,2988,12931,5,2018-11-26 01:17:36+00:00,2026-08-22 15:46:16+00:00,Unknown
+machine-learning-interview,khangich,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",12789,2044,12789,9,2020-08-11 06:26:32+00:00,2026-08-21 20:32:51+00:00,Unknown
+python-machine-learning-book,rasbt,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",12640,4373,12640,13,2015-08-07 20:39:29+00:00,2026-08-22 05:30:49+00:00,MIT License
+predictionio,apache,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",12518,1897,12518,80,2013-01-25 19:42:32+00:00,2026-08-21 05:59:51+00:00,Apache License 2.0
+lime,marcotcr,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",12166,1847,12166,133,2016-03-15 22:18:10+00:00,2026-08-22 17:53:50+00:00,"BSD 2-Clause ""Simplified"" License"
+cleanlab,cleanlab,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",11630,916,11630,122,2018-05-11 01:55:21+00:00,2026-08-21 06:41:07+00:00,Apache License 2.0
+dive-into-machine-learning,dive-into-machine-learning,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",11390,1866,11390,0,2015-02-22 23:48:16+00:00,2026-08-20 20:37:28+00:00,Creative Commons Attribution 4.0 International
+MLAlgorithms,rushter,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",11169,1768,11169,10,2016-10-05 06:46:45+00:00,2026-08-22 11:48:03+00:00,MIT License
+turicreate,apple,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",11160,1118,11160,522,2017-12-01 00:42:04+00:00,2026-08-22 18:53:23+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
+amazon-sagemaker-examples,aws,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",10979,6961,10979,849,2017-10-23 05:55:22+00:00,2026-08-20 03:24:40+00:00,Apache License 2.0
+A-Curated-List-of-ML-System-Design-Case-Studies,Engineer1999,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",10951,1681,10951,7,2024-05-18 15:42:58+00:00,2026-08-22 18:22:47+00:00,Unknown
+dolly,databrickslabs,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",10804,1140,10804,5,2023-03-24 16:15:53+00:00,2026-08-20 05:59:23+00:00,Apache License 2.0
+doccano,doccano,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",10754,1822,10754,396,2018-05-09 06:10:05+00:00,2026-08-22 13:35:49+00:00,MIT License
+mlcourse.ai,Yorko,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",10692,5697,10692,3,2017-02-27 08:32:20+00:00,2026-08-21 15:24:19+00:00,Other
+machine-learning-systems-design,chiphuyen,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",10538,1631,10538,11,2019-11-24 23:16:28+00:00,2026-08-22 15:50:24+00:00,Unknown
+Machine-Learning,Jack-Cherish,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",10372,5065,10372,7,2017-03-25 07:32:37+00:00,2026-08-22 15:54:58+00:00,Unknown
+machine-learning-notes,roboticcam,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",10337,1825,10337,28,2018-02-15 15:42:33+00:00,2026-08-21 07:52:17+00:00,Unknown
+3D-Machine-Learning,timzhang642,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",10191,1797,10191,21,2017-08-12 15:20:54+00:00,2026-08-21 09:19:46+00:00,Unknown
+tpot,EpistasisLab,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",10052,1562,10052,312,2015-11-03 21:08:40+00:00,2026-08-21 21:42:08+00:00,GNU Lesser General Public License v3.0
+sktime,sktime,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",9959,2305,9959,2392,2018-11-06 15:08:24+00:00,2026-08-22 21:09:03+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
+Stock-Prediction-Models,huseinzol05,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",9481,3046,9481,47,2017-12-18 10:49:59+00:00,2026-08-22 11:53:44+00:00,Apache License 2.0
+cog,replicate,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",9460,696,9460,70,2021-02-26 23:43:09+00:00,2026-08-22 06:21:40+00:00,Apache License 2.0
+AIMLInterviews,alirezadir,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",9443,1661,9443,11,2021-01-31 03:52:09+00:00,2026-08-22 19:18:24+00:00,MIT License
+golearn,sjwhitworth,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",9439,1165,9439,89,2013-12-26 13:06:14+00:00,2026-08-22 06:12:09+00:00,MIT License
+machinelearning,dotnet,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",9350,1950,9350,1009,2018-05-03 16:20:42+00:00,2026-08-22 16:43:09+00:00,MIT License
+awesome-ml-for-cybersecurity,jivoi,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",9311,1940,9311,33,2016-12-20 12:46:36+00:00,2026-08-22 13:10:23+00:00,Other
+awesome-project-ideas,NirantK,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",9282,1292,9282,7,2017-08-19 09:37:58+00:00,2026-08-22 14:24:50+00:00,MIT License
+catboost,catboost,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",9074,1320,9074,712,2017-07-18 05:29:04+00:00,2026-08-22 21:51:16+00:00,Apache License 2.0
+machine_learning_examples,lazyprogrammer,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8911,6402,8911,33,2014-07-31 23:40:45+00:00,2026-08-20 15:52:32+00:00,Unknown
+state-of-the-art-result-for-machine-learning-problems,RedditSota,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8894,1293,8894,14,2017-11-09 01:21:40+00:00,2026-08-21 05:56:46+00:00,Apache License 2.0
+pattern,clips,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8861,1558,8861,179,2011-05-03 15:29:01+00:00,2026-08-22 10:39:09+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
+financial-machine-learning,firmai,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8755,1410,8755,15,2019-03-21 21:00:35+00:00,2026-08-22 09:02:11+00:00,Unknown
+machinelearning,ljpzzz,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8706,3687,8706,17,2016-05-12 07:06:34+00:00,2026-08-21 06:07:46+00:00,MIT License
+vowpal_wabbit,VowpalWabbit,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8705,1925,8705,1,2009-07-31 19:36:58+00:00,2026-08-20 19:05:45+00:00,Other
+MachineLearning_Python,lawlite19,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8581,2515,8581,10,2016-10-17 15:44:59+00:00,2026-08-22 03:40:20+00:00,MIT License
+Machine-Learning-Collection,aladdinpersson,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8489,2784,8489,118,2020-03-26 07:02:40+00:00,2026-08-21 23:11:45+00:00,MIT License
+approachingalmost,abhishekkrthakur,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8373,1122,8373,54,2020-07-04 07:13:20+00:00,2026-08-22 21:54:43+00:00,Unknown
+introduction_to_ml_with_python,amueller,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8153,4671,8153,28,2016-05-29 18:29:47+00:00,2026-08-22 16:33:44+00:00,Unknown
+auto-sklearn,automl,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8126,1324,8126,207,2015-07-02 15:38:10+00:00,2026-08-17 01:46:07+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
+machine-learning-cheat-sheet,soulmachine,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8043,1332,8043,11,2013-05-09 07:43:59+00:00,2026-08-21 20:33:02+00:00,Unknown
+cortex,cortexlabs,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",8011,594,8011,132,2019-01-24 04:43:14+00:00,2026-08-20 21:08:25+00:00,Apache License 2.0
+machine-learning-roadmap,mrdbourke,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",7893,1168,7893,12,2020-07-09 07:07:47+00:00,2026-08-15 21:26:11+00:00,MIT License
+machine-learning-yearning-cn,deeplearning-ai,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",7845,1499,7845,4,2018-06-19 19:26:39+00:00,2026-08-22 20:48:11+00:00,Other
+Machine-Learning-Specialization-Coursera,greyhatguy007,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",7799,3728,7799,26,2022-06-16 15:31:02+00:00,2026-08-22 01:57:25+00:00,MIT License
+Machine-learning-learning-notes,Vay-keen,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",7761,1879,7761,28,2018-03-24 06:48:10+00:00,2026-08-21 04:15:39+00:00,Unknown
+awesome-youtubers,JoseDeFreitas,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",7740,498,7740,2,2020-08-25 14:18:15+00:00,2026-08-22 10:08:29+00:00,Creative Commons Zero v1.0 Universal
+Learn_Machine_Learning_in_3_Months,llSourcell,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",7603,2311,7603,19,2018-03-02 10:59:53+00:00,2026-08-21 16:08:33+00:00,Unknown
+h2o-3,h2oai,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",7495,2025,7495,2883,2014-03-03 16:08:07+00:00,2026-08-21 06:04:07+00:00,Apache License 2.0
+industry-machine-learning,firmai,"<bound method NDFrame.fillna of 0                  C++
+1               Python
+2     Jupyter Notebook
+3               Python
+4               Python
+            ...       
+95                None
+96            Markdown
+97                None
+98    Jupyter Notebook
+99    Jupyter Notebook
+Name: language, Length: 100, dtype: object>",7483,1249,7483,3,2019-05-03 05:08:15+00:00,2026-08-21 11:40:40+00:00,Unknown
